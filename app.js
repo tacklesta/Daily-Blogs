@@ -4,7 +4,7 @@ const ejs = require("ejs");
 const lodash = require("lodash");
 
 const homeStartingContent = "Welcome to Daily Blogs";
-const aboutContent = "I am an Engineer who loves learning new things everyday. I try to experiment and develop things which I wish can become true";
+const aboutContent = "I am an Engineer who loves learning new things everyday. I love to experiment and then fail. ;) ";
 const contactContent = "To be updated";
 
 const app = express();
