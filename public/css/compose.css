@@ -1,0 +1,22 @@
+.compose{
+        background: url('/images/compose.jpeg');
+}
+
+/* .container{
+    position: relative;
+} */
+
+.compose-title{
+    /* position: relative; */
+    font-family: Georgia;
+    font-weight: bold;
+    font-size:3em;
+    color: burlywood;
+}
+
+.form-group label{
+    /* position:relative; */
+    font-family: Arial;
+    font-size: 18px;
+    color:rgb(247, 242, 242);
+}

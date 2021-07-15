@@ -1,0 +1,29 @@
+.posts::before{
+        content: '';
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: url("/images/posts.jpg");
+        background-size: cover;
+        background-attachment: fixed;
+        filter: blur(3px);
+}
+
+.post-title{
+    position: relative;
+    font-family: Georgia;
+    font-weight: bold;
+    font-size:3em;
+    color: burlywood;
+    text-align: center;
+}
+
+.post-content{
+    position:relative;
+    text-align: center;
+    font-family: Arial;
+    font-size: 18px;
+    color:rgb(247, 242, 242);
+}
